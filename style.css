@@ -91,3 +91,18 @@ video {
   width: 100%;
   z-index: -10;
 }
+
+/*Play and Replay position fix :)*/
+.play {
+display: block;
+position: absolute;
+cursor: pointer;
+}
+
+.replay {
+position: relative;
+top:110px;
+width: 25 !important;
+width: 31px !important;
+cursor: pointer;
+}
